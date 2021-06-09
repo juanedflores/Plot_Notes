@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="25.0cm"
+   version="1.2"
+   viewBox="0 0 850.3937007874015 944.8818897637794"
+   width="22.5cm"
+   id="svg274"
+   sodipodi:docname="page_template.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview276"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="269.40768"
+     inkscape:cy="589.72706"
+     inkscape:window-width="940"
+     inkscape:window-height="1028"
+     inkscape:window-x="2885"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:source>vpype read sine.svg layout 22.5cmx25cm scaleto 11cm 11cm write sine_centered.svg
+</dc:source>
+        <dc:date>2021-06-09T01:22:12.188015</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <g
+     fill="none"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     stroke="#00f"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke-width:2.17048"
+       id="rect381"
+       width="526.96338"
+       height="715.93976"
+       x="1.08524"
+       y="227.8569" />
+    <rect
+       style="fill:none;stroke-width:3.19629"
+       id="rect485"
+       width="412.55176"
+       height="646.88245"
+       x="58.29105"
+       y="262.38556" />
+  </g>
+</svg>
