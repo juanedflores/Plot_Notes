@@ -24,15 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="cm"
      showgrid="false"
-     inkscape:zoom="0.79692457"
-     inkscape:cx="177.55758"
-     inkscape:cy="739.09128"
+     inkscape:zoom="1.1270215"
+     inkscape:cx="296.80001"
+     inkscape:cy="609.57132"
      inkscape:window-width="1890"
      inkscape:window-height="1028"
      inkscape:window-x="1935"
      inkscape:window-y="15"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="false" />
   <metadata
      id="metadata824">
     <rdf:RDF>
@@ -20183,14 +20184,11 @@
        y1="262.3857"
        y2="262.3857"
        id="line14394" />
-    <polygon
-       points="470.8431,262.3857 470.8431,909.2685 58.2911,909.2685 58.2911,262.3857"
-       id="polygon14396" />
     <g
        inkscape:label="Hershey Text"
        style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
        id="g47805"
-       transform="translate(2.7732228)">
+       transform="matrix(0.96347683,0,0,0.96347683,12.946033,40.717783)">
       <g
          transform="translate(53.2526,616.015)"
          id="g47267">
@@ -21579,5 +21577,13 @@
            id="path47801" />
       </g>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.2911,598.20529 h 412.552 z"
+       id="path10274" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 470.8431,909.2685 H 58.2911 Z"
+       id="path10276" />
   </g>
 </svg>
